@@ -1,0 +1,27 @@
+*{
+    margin:0px;
+    padding:0px;
+}
+.container{
+    width:1200px;
+    height:1500px;
+    background-color: aqua;
+    margin:250px;
+    padding:170px;
+    border-style: outset;
+    box-shadow: 30px 30px rgb(74, 68, 68);
+    margin-left:550px;
+}
+img{
+    border-radius:10px;
+}
+.top{
+    display:block;
+}
+.main{
+    display: flex;
+    align-items: center;
+    justify-items: center;
+    font-size: 190%;
+    text-indent: 50px;
+}
